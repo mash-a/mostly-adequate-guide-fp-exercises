@@ -1,0 +1,1 @@
+# mostly-adequate-guide-fp-exercises
